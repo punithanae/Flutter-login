@@ -1,0 +1,6 @@
+[4][17636][16:07:34.934] P: DriverEntry: gLogMaxLine=400000
+[4][17636][16:07:34.940] P: DriverEntry: DriverPath=\??\E:\Program Files\TxGameAssistant\UI\3.21.1693.100\aow_drv_x64_ev.sys, DriverFileMD5=B96B52B99713E91816CB2CBD5EEBF145
+[4][17636][16:07:34.940] P: DriverEntry: EvSignNeeded=1
+[20048][20404][16:07:34.945] P: AOWCreate: ExePath=\Device\HarddiskVolume5\Program Files\TxGameAssistant\ui\AndroidEmulator.exe
+[20048][20404][16:07:34.945] P: AOWCreate: DriverPath=\Device\HarddiskVolume5\Program Files\TxGameAssistant\ui\AOW_DRV_X64_EV.SYS
+[20048][20404][16:07:34.950] P: AOWCreate: DriverMD5=B96B52B99713E91816CB2CBD5EEBF145, CurrentDriverMD5=B96B52B99713E91816CB2CBD5EEBF145
